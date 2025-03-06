@@ -29,7 +29,7 @@ Developed by: BHUVANESHWARI S
 
 RegisterNumber: 212222220008
 
-import numpy as np
+```import numpy as np
 import matplotlib.pyplot as plt
 
 X=np.array(eval(input()))
@@ -57,6 +57,7 @@ plt.scatter(X,Y)
 plt.plot(X,y_predicted,color='red')
 plt.show()
 */
+```
 
 
 ## Output:
